@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Dataset (Kaggle dataset - very large)
+dataset/
+
+# Trained model files
+saved_model/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
